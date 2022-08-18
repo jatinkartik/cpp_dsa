@@ -1,0 +1,10 @@
+# Ignore Everything
+*
+
+# But not .cpp
+!input.txt
+!output.txt
+!*.cpp
+!.gitignore
+!README.md
+!*.c
